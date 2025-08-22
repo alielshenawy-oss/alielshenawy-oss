@@ -23,16 +23,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
 </p>
 
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alielshenawy-oss&layout=compact&theme=dark&hide=html,css,jupyter%20notebook" alt="Top Languages"/>
-</div>
-
----
-
 ## 🔗 Connect with Me
 
 <p align="center">
