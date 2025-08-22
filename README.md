@@ -1,9 +1,9 @@
 <!-- ========================= -->
-<div align="left">
-  Hi 👋, I'm <b>Ali Elshenawy</b> — a passionate <b>Front-End Developer</b>.  
-  Skilled in HTML, CSS, JavaScript, React, and modern front-end tools.  
-  I love building clean, responsive, and user-friendly web applications, and I’m always learning new technologies to improve my craft.
-</div>
+  <div align="left">
+    Hi 👋, I'm <b>Ali Elshenawy</b> — a passionate <b>Front-End Developer</b>.  
+    Skilled in HTML, CSS, JavaScript, React, and modern front-end tools.  
+    I love building clean, responsive, and user-friendly web applications, and I’m always learning new technologies to improve my craft.
+  </div>
 
 ## 🔧 My Tech Stack
 <p align="center">
@@ -16,20 +16,24 @@
 </p>
 
 ## 📊 GitHub Stats
-<!-- Note: the percentages in this card are calculated by the service based on your repos.
-     We hid Handlebars and SCSS as requested. -->
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alielshenawy-oss&layout=compact&theme=dark&hide=handlebars,scss" alt="Top Languages"/>
 </div>
 
-## 📚 Language Mix (custom)
-<!-- Custom badges to reflect your desired split -->
+---
+
+## 📚 Language Mix (Custom)
+
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-60%25-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript 60%"/>
   <img src="https://img.shields.io/badge/Python-40%25-3776AB?logo=python&logoColor=white" alt="Python 40%"/>
 </p>
 
+---
+
 ## 🔗 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ali-elshenawy-5258a8351">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/>
