@@ -1,6 +1,16 @@
 <div align="left">
     I am a Frontend developer. I have worked on projects that served thousands of users, built scalable applications, and continuously strive to improve my skills and contribute to impactful teams.
   </div>
+  ---
+  
+## 🚀 About Me
+
+<div align="center">
+<img  src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="250" alt="Coding GIF" style="z-index:99;"/>
+</div>
+  <div align="left">
+    I am a Software Engineer skilled in React, Next.js, WordPress, PHP, and more. I have worked on projects that served thousands of users, built scalable applications, and continuously strive to improve my skills and contribute to impactful teams.
+  </div>
 
 ## 🔧 My Tech Stack
 <p align="center">
@@ -10,6 +20,7 @@
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
 </p>
+
 
 
 ## 📊 GitHub Stats
