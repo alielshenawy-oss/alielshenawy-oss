@@ -1,74 +1,46 @@
 <!-- ========================= -->
-<!--      YOUSEF’S README     -->
-<!-- ========================= -->
-
-
-<p align="center">
-  <h1>Hey there, I’m <a href="https://yousefdergham.vercel.app/">Yousef Dergham</a> 👋</h1>
-  <p><em>Full-stack Web Developer · CS Student · Coffee Lover ☕</em></p>
-  <p>📅 <strong>Last updated:</strong> August 6, 2025</p>
-  <p>💼 <strong>Current:</strong> Software Engineer at <a href="almdrasa.com" target="_blank">Almadrsa</p>
-</p>
-
----
-## 🚀 About Me
-
-<div align="center">
-<img  src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="250" alt="Coding GIF" style="z-index:99;"/>
+<div align="left">
+  Hi 👋, I'm <b>Ali Elshenawy</b> — a passionate <b>Front-End Developer</b>.  
+  Skilled in HTML, CSS, JavaScript, React, and modern front-end tools.  
+  I love building clean, responsive, and user-friendly web applications, and I’m always learning new technologies to improve my craft.
 </div>
-  <div align="left">
-    I am a Software Engineer skilled in React, Next.js, WordPress, PHP, and more. I have worked on projects that served thousands of users, built scalable applications, and continuously strive to improve my skills and contribute to impactful teams.
-  </div>
 
 ## 🔧 My Tech Stack
 <p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" alt="Next JS"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white" alt="Wordpress"/>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white" alt="php"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
 </p>
 
 ## 📊 GitHub Stats
-
+<!-- Note: the percentages in this card are calculated by the service based on your repos.
+     We hid Handlebars and SCSS as requested. -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefdergham&layout=compact&theme=dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alielshenawy-oss&layout=compact&theme=dark&hide=handlebars,scss" alt="Top Languages"/>
 </div>
 
----
-
+## 📚 Language Mix (custom)
+<!-- Custom badges to reflect your desired split -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/JavaScript-60%25-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript 60%"/>
+  <img src="https://img.shields.io/badge/Python-40%25-3776AB?logo=python&logoColor=white" alt="Python 40%"/>
 </p>
-
----
-
-## 🎯 LeetCode Heatmap
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/yousefmohameddergham?theme=catppuccinMocha&font=Varta&ext=heatmap" alt="LeetCode Stats"/>
-</p>
-
----
 
 ## 🔗 Connect with Me
-
 <p align="center">
-  <a href="https://yousefdergham.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/yousefdergham">
+  <a href="https://www.linkedin.com/in/ali-elshenawy-5258a8351">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://t.me/YousefMohamed01">
-    <img src="https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=white" alt="Telegram"/>
+  <a href="https://www.instagram.com/ali_el.shenawy?igsh=MWwxNW8wMTV5dXNoeg==">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.buymeacoffee.com/yousefdergham">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee"/>
+  <a href="https://www.facebook.com/ali.elshenawy.125?mibextid=ZbWKwL">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://github.com/alielshenawy-oss">
+    <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
