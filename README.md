@@ -1,6 +1,8 @@
-<div align="left">
-    I am a Frontend developer. I have worked on projects that served thousands of users, built scalable applications, and continuously strive to improve my skills and contribute to impactful teams.
-  </div>
+<p align="center">
+  <h1>Hey there, I’m <a href="https://alielshenawy.vercel.app/">Ali Elshenawy</a> 👋</h1>
+  <p><em>Front-end Web Developer · CS Student · Gym Lover 💪</em></p>
+  <p>📅 <strong>Last updated:</strong> August 6, 2025</p>
+  
   ---
   
 ## 🚀 About Me
@@ -9,7 +11,7 @@
 <img  src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="250" alt="Coding GIF" style="z-index:99;"/>
 </div>
   <div align="left">
-    I am a Software Engineer skilled in React, Next.js, WordPress, PHP, and more. I have worked on projects that served thousands of users, built scalable applications, and continuously strive to improve my skills and contribute to impactful teams.
+    I am a Front end developer. I have worked on projects that served thousands of users, built scalable applications, and continuously strive to improve my skills and contribute to impactful teams.
   </div>
 
 ## 🔧 My Tech Stack
@@ -26,14 +28,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefdergham&layout=compact&theme=dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alielshenawy-oss&layout=compact&theme=dark&hide=html,css,jupyter%20notebook" alt="Top Languages"/>
 </div>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge" alt="Profile Views"/>
-</p>
 
 ---
 
